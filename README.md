@@ -26,3 +26,12 @@ and an ordered list of steps to make the food.
 ## Review
 
 Created an index.html file within the odin-recipes directory and wrote HTML with an h1 heading "Odin Recipes" in the body. A second directory, "recipes," was created within the odin-recipes directory, and HTML files were made for each recipe, which included h1 headings with recipe names, images of finished dishes, descriptions with <\p>, ingredients lists using <\ul>, and steps using <\ol>.
+
+## Credits
+
+### Images
+"Lavender Lemonade" - Danielle Walker, *Against All Grain*
+
+"Fettuccine Alfredo" - Kevin D. Weeks, *The Spruce Eats*
+
+"Elderflower Cocktail" - Angela Kotsell
